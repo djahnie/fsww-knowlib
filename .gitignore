@@ -3,6 +3,9 @@
 vendor/*
 !*/vendor/*
 
+# Sass
+.sass-cache
+
 # Grav Specific
 backup/*
 !backup/.*
@@ -16,3 +19,6 @@ images/*
 !images/.*
 user/localhost/config/security.yaml
 user/config/security.yaml
+
+# Theme Specific
+user/themes/antimatter/css-compiled

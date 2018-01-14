@@ -1,14 +1,7 @@
 ---
-title: Homepage Showcase
+title: Library Showcase
 menu: Top
-buttons:
-    - text: Read the Documentation
-      url: http://learn.getgrav.org
-      primary: true
 ---
 
-# Welcome to Grav
-## Crazy **Fast**, Ridiculously **Easy**, Amazingly **Powerful**...
-
-
-
+# Welcome to the FSWW knowledge library
+## Based on experiences from Germany - Inspired by enthusiasm from all over the world...

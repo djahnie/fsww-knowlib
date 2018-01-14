@@ -1,5 +1,5 @@
 ---
-title: One Page Demo Site
+title: knowlib
 menu: Home
 onpage_menu: false
 body_classes: "modular header-image fullwidth"
