@@ -8,7 +8,7 @@ features:
       icon: handshake-o
     - header: Food-Share Points
       text: "Public shelves and fridges for everybody to share food"
-      icon: database
+      icon: gift
     - header: Community
       text: "Build a foodsaving group that consists of friends"
       icon: child
