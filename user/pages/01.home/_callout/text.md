@@ -4,6 +4,6 @@ menu: Easy Content
 image_align: right
 ---
 
-## Content Unchained
+## Start saving now
 
-No longer are you a _slave to your CMS_. Grav **empowers** you to create anything from a [simple one-page site](#), to a [beautiful blog](#), to a powerful and feature-rich [product site](#), to pretty much anything you can dream up!
+Make use of this material and don't wait any longer to save food from being wasted. Get active now and experience the beauty of resource saving in community!
